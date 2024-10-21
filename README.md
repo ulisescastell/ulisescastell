@@ -1,6 +1,6 @@
 ![github-header-image (2)](https://github.com/ulisescastell/ulisescastell/assets/149115239/b23e5359-f412-485e-830d-69be6d575b33)
 
-[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists)](https://git.io/typing-svg)
+[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=FFF&multiline=false&random=true&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists)](https://git.io/typing-svg)
 
 ---
 
@@ -15,10 +15,7 @@
 ---
 
 >[!NOTE]
->📫 You can reach me at: [Linkedin](https://es.linkedin.com/in/ulises-castell "Linkedin Profile") & [Porfolio](https://ulisescastell.com")
+>📫 You can reach me at: [Linkedin](https://es.linkedin.com/in/ulises-castell "Linkedin Profile") & [Porfolio](https://ulisescastell.com)
 
----
-
-  ![Gif power!](https://cdn3.whatculture.com/images/2015/01/arcades.gif "An animated gif")
 
 
