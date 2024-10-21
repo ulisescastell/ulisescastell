@@ -12,20 +12,51 @@
 
 ### Languages and tools
 
-<div align=center>
-  <a href="https://docs.github.com/articles/markdown-basics" target="_blank">
-    <img  alt="Markdown" title="Markdown" width=45px src="https://cdn.simpleicons.org/markdown/_/white" /></a>
-  <a href="https://archlinux.org/" target="_blank">
-    <img  alt="Arch Linux" title="Arch Linux" width=45px src="https://cdn.simpleicons.org/archlinux/1793D1" /></a>
+<div align="center">
   <a href="https://github.com" target="_blank">
-    <img  alt="Github" title="Github" width=45px src="https://cdn.simpleicons.org/github/_/white" /></a>
+    <img alt="Github" title="Github" width=45px src="https://cdn.simpleicons.org/github/_/white" />
+  </a>
   <a href="https://git-scm.com" target="_blank">
-    <img  alt="Git" title="Git" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+    <img alt="Git" title="Git" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="Visual Studio Code" title="Visual Studio Code" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+    <img alt="Visual Studio Code" title="Visual Studio Code" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </a>
   <a href="https://obsidian.md/" target="_blank">
-    <img  alt="Obsidian" title="Obsidian" width=45px src="https://cdn.simpleicons.org/obsidian/7C3AED" /></a>
+    <img alt="Obsidian" title="Obsidian" width=45px src="https://cdn.simpleicons.org/obsidian/7C3AED" />
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img alt="Kotlin" title="Kotlin" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" title="PHP" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" title="Docker" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img alt="Vue.js" title="Vue.js" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" title="JavaScript" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express.js" title="Express.js" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" title="MySQL" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" title="PostgreSQL" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" title="MongoDB" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  </a>
 </div>
+<a href="https://astro.build/" target="_blank">
+  <img alt="Astro" title="Astro" width=45px src="https://cdn.simpleicons.org/astro/FF5A03" />
+</a>
+
   
 ---
 [![Uli's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulisescastell)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulisescastell&layout=compact" />
