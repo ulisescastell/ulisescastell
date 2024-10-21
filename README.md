@@ -52,10 +52,10 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img alt="MongoDB" title="MongoDB" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   </a>
-</div>
 <a href="https://astro.build/" target="_blank">
   <img alt="Astro" title="Astro" width=45px src="https://cdn.simpleicons.org/astro/FF5A03" />
 </a>
+</div>
 
   
 ---
