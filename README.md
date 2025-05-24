@@ -6,7 +6,7 @@
 
 ### Hi, I'm Uli! 👋
 
-💻 Web developer specialized in mobile environments.
+💻 Fullstack developer specialized in mobile environments.
 
 ---
 
