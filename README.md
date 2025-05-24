@@ -6,7 +6,7 @@
 
 ### Hi, I'm Uli! 👋
 
-- 🔭 I’m currently studying as a web developer in mobile enviorment.
+💻 Web developer specialized in mobile environments.
 
 ---
 
